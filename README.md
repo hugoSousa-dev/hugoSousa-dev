@@ -41,18 +41,18 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lcrbtzjglbhuvagrasijvhg3u4" alt="Alt text">
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoSousa-dev/hugoSousa-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoSousa-dev/hugoSousa-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugoSousa-dev/hugoSousa-dev/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lcrbtzjglbhuvagrasijvhg3u4" alt="Alt text">
+</div>
 
 ###
