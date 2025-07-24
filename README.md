@@ -44,9 +44,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Hugo Sousa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hugo%20Sousa&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lcrbtzjglbhuvagrasijvhg3u4" alt="Alt text">
 </div>
 
 ###
